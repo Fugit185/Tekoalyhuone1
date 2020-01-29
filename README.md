@@ -1,2 +1,2 @@
 # Tekolalyhuone1
-Omnian Tekoäly pakohuoneen ohjelmistot
+Omnian Tekoäly pakohuoneen Timmy robotin ohjelmistot
